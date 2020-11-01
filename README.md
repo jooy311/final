@@ -1,5 +1,5 @@
-# payProgram_usingGUI
-
+# payProgram_usingSwingGUI
+![image](https://user-images.githubusercontent.com/60565941/97803806-1a2d2780-1c8f-11eb-8ee1-ff0ffd1ee28d.png)
 
 ## 1. 로그인화면
 ![image](https://user-images.githubusercontent.com/60565941/97803690-5ca23480-1c8e-11eb-97b4-f25da991ac6e.png)
